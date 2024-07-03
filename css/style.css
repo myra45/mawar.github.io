@@ -11231,9 +11231,7 @@ textarea.form-control {
   margin-right: 32px;
 }
 
-
-
-@media only screen and (max-width: 720px){
+@media only screen and (max-width: 720px) {
   .education {
     flex-direction: column;
     gap: 12px;
@@ -11248,7 +11246,7 @@ textarea.form-control {
   }
 }
 
-@media only screen and (max-width: 520px){
+@media only screen and (max-width: 520px) {
   .portfolio_project {
     flex-direction: column;
     margin-left: 20px;
@@ -11257,7 +11255,7 @@ textarea.form-control {
   .text-container:first-child {
     margin-left: 0;
   }
-  
+
   .text-container:last-child {
     margin-right: 0;
   }
@@ -11269,8 +11267,4 @@ textarea.form-control {
   .desc {
     font-size: 14px;
   }
-
 }
-
-
-
