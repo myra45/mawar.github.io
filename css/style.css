@@ -9834,15 +9834,14 @@ h5,
   cursor: pointer;
   opacity: 1;
   visibility: hidden;
-  padding: 16px;
+  padding: 20px;
   -moz-transition: all 0.5s ease;
   -o-transition: all 0.5s ease;
   -webkit-transition: all 0.5s ease;
   -ms-transition: all 0.5s ease;
   transition: all 0.5s ease;
-  background-color: #fff;
-  width: 100%;
 }
+
 @media (max-width: 991.98px) {
   .colorlib-nav-toggle {
     opacity: 1;
